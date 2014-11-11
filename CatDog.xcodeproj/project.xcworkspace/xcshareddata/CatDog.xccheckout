@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>IDESourceControlProjectFavoriteDictionaryKey</key>
+	<false/>
+	<key>IDESourceControlProjectIdentifier</key>
+	<string>091D0832-670A-4156-9113-AB28B70B86A8</string>
+	<key>IDESourceControlProjectName</key>
+	<string>CatDog</string>
+	<key>IDESourceControlProjectOriginsDictionary</key>
+	<dict>
+		<key>72A575B8504653975D6EAC3F70FC9288ED362895</key>
+		<string>https://github.com/alyzacm/CatDog.git</string>
+	</dict>
+	<key>IDESourceControlProjectPath</key>
+	<string>CatDog.xcodeproj</string>
+	<key>IDESourceControlProjectRelativeInstallPathDictionary</key>
+	<dict>
+		<key>72A575B8504653975D6EAC3F70FC9288ED362895</key>
+		<string>../..</string>
+	</dict>
+	<key>IDESourceControlProjectURL</key>
+	<string>https://github.com/alyzacm/CatDog.git</string>
+	<key>IDESourceControlProjectVersion</key>
+	<integer>111</integer>
+	<key>IDESourceControlProjectWCCIdentifier</key>
+	<string>72A575B8504653975D6EAC3F70FC9288ED362895</string>
+	<key>IDESourceControlProjectWCConfigurations</key>
+	<array>
+		<dict>
+			<key>IDESourceControlRepositoryExtensionIdentifierKey</key>
+			<string>public.vcs.git</string>
+			<key>IDESourceControlWCCIdentifierKey</key>
+			<string>72A575B8504653975D6EAC3F70FC9288ED362895</string>
+			<key>IDESourceControlWCCName</key>
+			<string>CatDog</string>
+		</dict>
+	</array>
+</dict>
+</plist>
